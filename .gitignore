@@ -1,0 +1,16 @@
+# Ignore generated notebook output images
+output_*.png
+
+# Ignore virtual environment
+.venv/
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Ignore archives and temporary files
+*.zip
+*.tmp
+
+# VS Code workspace
+.vscode/

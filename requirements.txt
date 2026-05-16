@@ -1,3 +1,11 @@
+ipykernel
+matplotlib
+nbclient
+nbformat
 numpy
 pandas
-matplotlib
+plotly
+pykalman
+scikit-learn
+scipy
+seaborn
